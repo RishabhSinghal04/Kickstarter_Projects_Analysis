@@ -36,8 +36,8 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=11&pageSi
 - Corrected an incorrect documentary title: Replaced “11-04-2008” with the accurate title “11/4/08”.
 - Handled literal placeholder entry: Removed the erroneous “#NAME?” value.
 - Removed cancellation tags: Stripped “(Canceled)” from project names where it was appended.
-
-    ![Issues Log](images/issues_log/issues_log.png)
+&nbsp;
+  ![Issues Log](images/issues_log/issues_log.png)
 
 
 ## Analysis & Visualizations
@@ -81,7 +81,7 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=11&pageSi
     - Regions like Mexico and Norway show room for growth—targeted marketing and localized incentives could boost backer counts.
     - Overlaying temporal filters (year, month) enables drill-downs into seasonal performance and campaign timing.
 
-    ![Page 4: Map](images/report\map.png)
+    ![Page 4: Map](images\report\map.png)
 
 
 ## File Structure
