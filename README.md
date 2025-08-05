@@ -2,7 +2,7 @@
 
 A comprehensive exploration of Kickstarter Projects dataset, featuring data cleaning, SQL-driven analytics, and interactive Power BI visualizations.
 
-![All Report Pages](images\report_pages.png)
+![All Report Pages](images/report_pages.png)
 
 ## Problem Statement
 
@@ -37,7 +37,7 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=11&pageSi
 - Handled literal placeholder entry: Removed the erroneous “#NAME?” value.
 - Removed cancellation tags: Stripped “(Canceled)” from project names where it was appended.
 
-    ![Issues Log](images\issues_log\issues_log.png)
+    ![Issues Log](images/issues_log/issues_log.png)
 
 
 ## Analysis & Visualizations
@@ -58,14 +58,14 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=11&pageSi
     - Tech-heavy categories drive the bulk of funding, while creative niches still struggle to meet goals.
     - The mid-decade boom in project volume corresponded with a dip in overall success, hinting at market saturation and backer fatigue.
 
-    ![Page 1: Executive Summary](images\report\executive_summary.png)
+    ![Page 1: Executive Summary](images/report/executive_summary.png)
 
   - ### Page 2: Category Trend Explorer
     - Film & Video, Music, and Publishing lead in sheer number of projects, but Art’s meteoric rise reshapes category share post-2013.
     - Steady performers (Publishing, Music) point to enduring niches with loyal communities.
     - “Other” categories fill in minor yearly volumes, showing platform diversification
 
-    ![Page 2: Category Trend Explorer](images\report\category_trend_explorer.png)
+    ![Page 2: Category Trend Explorer](images/report/category_trend_explorer.png)
   
   - ### Page 3: Table & Matrix
     - A handful of viral games and design gadgets achieve astronomical goal completion, proving that novelty plus community hype can outstrip even ambitious targets.
@@ -73,7 +73,7 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=11&pageSi
     - Performance-based categories (Dance, Theater, Comics) lead success rates above 50%, suggesting that backers gravitate toward shareable experiences and narrative‐driven projects.
     - The overall Design success rate masks wide variation across its subdomains—critical insight for creators choosing where to focus their efforts.
     
-    ![Page 3: Table & Matrix](images\report\table_and_matrix.png)  
+    ![Page 3: Table & Matrix](images/report/table_and_matrix.png)  
 
   - ### Page 4: Geographical Performance & Backer Engagement
     - Markets with smaller project volumes (e.g., Hong Kong, Singapore) can deliver outsized engagement.
@@ -81,7 +81,7 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=11&pageSi
     - Regions like Mexico and Norway show room for growth—targeted marketing and localized incentives could boost backer counts.
     - Overlaying temporal filters (year, month) enables drill-downs into seasonal performance and campaign timing.
 
-    ![Page 4: Map](images\report\map.png)
+    ![Page 4: Map](images/report\map.png)
 
 
 ## File Structure
