@@ -81,7 +81,7 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=11&pageSi
     - Regions like Mexico and Norway show room for growth—targeted marketing and localized incentives could boost backer counts.
     - Overlaying temporal filters (year, month) enables drill-downs into seasonal performance and campaign timing.
 
-    ![Page 4: Map](images\report\map.png)
+    ![Page 4: Map](images/report/map.png)
 
 
 ## File Structure
