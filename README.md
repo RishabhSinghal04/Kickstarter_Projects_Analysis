@@ -8,7 +8,7 @@
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 - [Data Model](#Data-Model)
 - [Analysis and Visualizations](#Analysis-and-Visualizations)
-- [Results](#Results)
+- [Performance Insights](#Performance-Insights)
 - [Tools and Technologies](#Tools-and-Technologies)
 - [File Structure](#File-Structure)
 - [Getting Started](#Getting-Started)
@@ -110,22 +110,45 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=11&pageSi
     - Average Backers by Country: Displayed as a tree map, with each rectangle representing a country. The size of each rectangle corresponds to the average number of backers.  
     - The left section contains filters for Year and Month.  
 
-## Results
-- **Funding Leaders:** The **Design** category recorded the highest average pledge at **$24,420.64**, while **Crafts** had the lowest at **$1,632.91**.  
 
-- **Success Rates by Category:** The **Dance** category achieved the highest success rate at **62.07%**, followed closely by **Theater** at **59.88%**. In contrast, **Technology** recorded the lowest success rate at **19.76%**.  
+## Performance Insights
 
-- **Project Goals:** The **Technology** category projects set the highest average funding goals (**$102,202.38**), whereas **Dance** had the lowest (**$9,580.25**).  
+### Funding Leaders
+The **Design category** achieved the highest average pledge at **$24,420.64**, reflecting strong backer confidence in innovative product ideas.  
+In contrast, **Crafts projects averaged just $1,632.91**, highlighting the challenge of monetizing smaller-scale creative work.
 
-- **Yearly Trends:** Year **2015** saw the largest number of projects (**74,919**), yet it also had the lowest success rate of the period at **27.99%**.  
-  The highest success rate occurred in **2011** at **46.39%**, with **26,236** projects launched that year.  
+### Success Rates by Category
+**Dance projects recorded the highest success rate at 62.07%**, closely followed by **Theater at 59.88%**.  
+By comparison, **Technology projects had the lowest success rate at 19.76%**, underscoring the risks associated with high-cost, complex development.
 
-- **Volume by Category:** The **Film & Video** category had the highest total number of projects (**62,693**), while **Dance** had the fewest (**3,767**).  
+### Project Goals
+**Technology projects set the highest average funding goals ($102,202.38)**, while **Dance projects had the lowest ($9,580.25)**.  
+This gap illustrates the ambitious nature of technology ventures versus the leaner requirements of performance-based projects.
 
-- **Category Growth & Decline:** From **2013 to 2014**, **Technology** experienced the largest growth in total projects (**+6,455**, a **253.5%** increase), followed by **Food** (**+4,203**, **186.06%** increase).  
-  From **2015 to 2016**, **Film & Video** saw the largest decline (**-2,864**, **-29.54%**), with **Technology** close behind (**-2,676**, **-27.58%**).  
+### Yearly Trends
+In **2015, Kickstarter saw its largest project volume (74,919)**, but this coincided with the **lowest success rate of 27.99%**.  
+Conversely, **2011 recorded the highest success rate at 46.39%**, with a more modest **26,236 projects launched**.
 
-- **Geographic Performance:** The **United States** achieved the highest success rate among countries at **37.35%**, while **Italy** recorded the lowest at **15.25%**.  
+### Volume by Category
+**Film & Video dominated in project count (62,693 projects)**, while **Dance remained the smallest category (3,767 projects)**.  
+This contrast highlights the competitive intensity in Film & Video compared to the niche opportunities in Dance.
+
+### Category Growth & Decline
+- From **2013 to 2014**, **Technology grew by 6,455 projects (+253.5%)**, followed by **Food with +4,203 projects (+186.06%)**.  
+- From **2015 to 2016**, **Film & Video declined by 2,864 projects (-29.54%)**, with **Technology close behind (-2,676, -27.58%)**.
+
+### Geographic Performance
+The **United States achieved the highest success rate (37.35%)**, while **Italy recorded the lowest (15.25%)**.  
+This demonstrates significant geographic variation in crowdfunding effectiveness.
+  
+### Business Value
+
+- **Design and performance-based categories** (Dance, Theater) show the strongest backer engagement, making them reliable for creators.  
+- **Technology projects must balance ambition with realistic funding goals** to improve success rates.  
+- **Market saturation reduces success rates**: creators should time launches strategically to avoid crowded periods.  
+- **Film & Video faces high competition**, requiring standout campaigns, while **niche categories like Dance** offer higher relative success potential.  
+- **Rapid growth in Technology and Food** signals opportunity but also backer fatigue; credibility and innovation are key to sustaining momentum.  
+- **Geographic disparities** highlight the need for localized strategies—U.S. campaigns thrive, while European markets may require tailored approaches.  
 
 
 ## Tools and Technologies
